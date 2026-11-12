@@ -4,5 +4,6 @@
   "author": {
     "name": "Michał Szulowski"
   },
-  "repository": "https://github.com/michalszulowski/mszulowski-claude-plugins"
+  "repository": "https://github.com/michalszulowski/mszulowski-claude-plugins",
+  "license": "MIT"
 }

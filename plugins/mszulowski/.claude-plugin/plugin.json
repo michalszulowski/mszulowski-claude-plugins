@@ -1,0 +1,8 @@
+{
+  "name": "mszulowski",
+  "description": "Michał Szulowski Claude Code plugin",
+  "author": {
+    "name": "Michał Szulowski"
+  },
+  "repository": "https://github.com/michalszulowski/mszulowski-claude-plugins"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mszulowski-plugins",
+  "owner": {
+    "name": "Michał Szulowski"
+  },
+  "description": "Michał Szulowski Claude Code plugins",
+  "plugins": [
+    {
+      "name": "mszulowski",
+      "source": "./plugins/mszulowski",
+      "description": "Michał Szulowski Claude Code plugin"
+    }
+  ]
+}
